@@ -2,6 +2,6 @@ const mongoose = require("mongoose");
 
 const connect = () => {
   return mongoose.connect(
-    "mongodb+srv://NayanIngale:nayan123@test.wjg1r.mongodb.net/unit4c3"
+    "mongodb+srv://pooja:pooja123@test.wjg1r.mongodb.net/unit4c3"
   );
 };
